@@ -11,9 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We are from CC22-PO22 Bangkit 2022 Company-based Capstone Project. Here we develop a price prediction application using Machine Learning model. We package those model into an Android application. We also create an API to implement our ML model.
+We are from **CC22-PO22 Bangkit 2022 Company-based Capstone Project**. Here, we develop a price prediction application using a Machine Learning model. We package that model into an Android application. We also create an API to implement our ML model.
 
-Our team is shaped with one vision to create best solutions for companies problems.
+Our team is shaped with one vision to create the best solutions for the company's problems.
 
 Our team consist of:
 - [Akhmad Faizal](https://github.com/orgs/FurnPriss/people/akhfzz) - CC ☁️
