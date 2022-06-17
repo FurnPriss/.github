@@ -16,12 +16,12 @@ We are from CC22-PO22 Bangkit 2022 Company-based Capstone Project. Here we devel
 Our team is shaped with one vision to create best solutions for companies problems.
 
 Our team consist of:
-- Akhmad Faizal - CC
-- Aldon Manuel - ML
-- Ramdani - ML
-- Muhammad Adri Yusril Izza - MD
-- Deni Saputra - ML
-- Muhamad Reyhan Alfaritsi - MD
-- Priansa Putra Jaya Wardana - MD
-- Chagu Hospita Yanti. S - CC
-- Rizki Ramadhan - CC
+- [Akhmad Faizal](https://github.com/orgs/FurnPriss/people/akhfzz) - CC ☁️
+- [Aldon Manuel](https://github.com/orgs/FurnPriss/people/aldonmanuel) - ML 🖥️
+- [Ramdani](https://github.com/orgs/FurnPriss/people/ramdaniadan) - ML 🖥️
+- [Muhammad Adri Yusril Izza](https://github.com/orgs/FurnPriss/people/Yusrilizza12) - MD 📱
+- [Deni Saputra](https://github.com/DeniSaputra-art) - ML 🖥️
+- [Muhamad Reyhan Alfaritsi](https://github.com/orgs/FurnPriss/people/reyhanalfaritsi) - MD 📱
+- [Priansa Putra Jaya Wardana](https://github.com/orgs/FurnPriss/people/priansap) - MD 📱
+- [Chagu Hospita Yanti. S](https://github.com/YantiiSitohang) - CC ☁️
+- [Rizki Ramadhan](https://github.com/orgs/FurnPriss/people/ryumada) - CC ☁️
